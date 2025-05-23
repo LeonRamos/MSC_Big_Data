@@ -1,8 +1,5 @@
 # MSC_Big_Data
 Temario oficial de la asignatura "Big Data" para la especialidad de Inteligencia Artificial, estructurado en 4 unidades principales
-# Temario de la Asignatura: Big Data (Especialidad IA)
-
-Este documento presenta el temario oficial de la asignatura "Big Data" para la especialidad de Inteligencia Artificial. Cada subtema enlaza a su propio archivo `.md` correspondiente dentro del repositorio.
 
 ---
 
