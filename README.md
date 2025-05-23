@@ -3,6 +3,8 @@
 # MSC_Big_Data
 Temario oficial de la asignatura "Big Data" para la especialidad de Inteligencia Artificial, estructurado en 4 unidades principales.
 
+ Tecnología / Herramienta | Badge |
+|--------------------------|-------|
 | [Apache Hadoop](https://hadoop.apache.org) | [![Hadoop Foundations](https://images.credly.com/size/110x110/images/2e2c7a76-1b4d-4c3e-8b7e-8f8f1d6b8e3d/Hadoop_Foundations.png)](https://cognitiveclass.ai/badges/big-data-hadoop-foundations/) |
 | [Apache Spark](https://spark.apache.org) | [![Big Data with Spark and Hadoop Essentials](https://images.credly.com/size/110x110/images/0b1a8a0c-9c5b-4e8a-8b7b-8f8f1d6b8e3d/Big_Data_with_Spark_and_Hadoop_Essentials.png)](https://www.credly.com/org/ibm/badge/big-data-with-spark-and-hadoop-essentials) |
 | [Apache Kafka](https://kafka.apache.org) | [![Apache Kafka Operations](https://images.credly.com/size/110x110/images/6a0b4b8c-9a3a-4e8a-8b7b-8f8f1d6b8e3d/Apache_Kafka_Operations.png)](https://www.credly.com/org/learning-actors/badge/apache-kafka-operations) |
@@ -27,7 +29,6 @@ Temario oficial de la asignatura "Big Data" para la especialidad de Inteligencia
 | [Amazon Web Services (AWS)](https://aws.amazon.com) | ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 | [Google Cloud Platform (GCP)](https://cloud.google.com) | ![GCP Badge](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
 | [Microsoft Azure](https://azure.microsoft.com) | ![Azure Badge](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
-
 ---
 ## Unidad 1: Fundamentos y Ecosistema de Big Data
 
