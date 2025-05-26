@@ -3,32 +3,7 @@
 # MSC_Big_Data
 Temario oficial de la asignatura "Big Data" para la especialidad de Inteligencia Artificial, estructurado en 4 unidades principales.
 
- Tecnología / Herramienta | Badge |
-|--------------------------|-------|
-| [Apache Hadoop](https://hadoop.apache.org) | [![Hadoop Foundations](https://images.credly.com/size/110x110/images/2e2c7a76-1b4d-4c3e-8b7e-8f8f1d6b8e3d/Hadoop_Foundations.png)](https://cognitiveclass.ai/badges/big-data-hadoop-foundations/) |
-| [Apache Spark](https://spark.apache.org) | [![Big Data with Spark and Hadoop Essentials](https://images.credly.com/size/110x110/images/0b1a8a0c-9c5b-4e8a-8b7b-8f8f1d6b8e3d/Big_Data_with_Spark_and_Hadoop_Essentials.png)](https://www.credly.com/org/ibm/badge/big-data-with-spark-and-hadoop-essentials) |
-| [Apache Kafka](https://kafka.apache.org) | [![Apache Kafka Operations](https://images.credly.com/size/110x110/images/6a0b4b8c-9a3a-4e8a-8b7b-8f8f1d6b8e3d/Apache_Kafka_Operations.png)](https://www.credly.com/org/learning-actors/badge/apache-kafka-operations) |
-| [Apache Airflow](https://airflow.apache.org) | [![Airflow Providers Papermill](https://repology.org/badge/vertical-allrepos/python%3Aapache-airflow-providers-papermill.svg)](https://repology.org/project/python%3Aapache-airflow-providers-papermill/versions) |
-| [Python](https://www.python.org) | ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| [R](https://www.r-project.org) | ![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) |
-| [SQL](https://www.sql.org) | ![SQL Badge](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| [Scala](https://www.scala-lang.org) | ![Scala Badge](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) |
-| [MongoDB](https://www.mongodb.com) | ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| [Apache Cassandra](https://cassandra.apache.org) | ![Cassandra Badge](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white) |
-| [Apache HBase](https://hbase.apache.org) | ![HBase Badge](https://img.shields.io/badge/HBase-003545?style=for-the-badge&logo=apache-hbase&logoColor=white) |
-| [Neo4j](https://neo4j.com) | ![Neo4j Badge](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) |
-| [PostgreSQL](https://www.postgresql.org) | ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| [Apache Flume](https://flume.apache.org) | ![Flume Badge](https://img.shields.io/badge/Flume-005571?style=for-the-badge&logo=apache-flume&logoColor=white) |
-| [Apache NiFi](https://nifi.apache.org) | ![NiFi Badge](https://img.shields.io/badge/NiFi-2C9AB7?style=for-the-badge&logo=apache-nifi&logoColor=white) |
-| [Kubernetes](https://kubernetes.io) | ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| [Tableau](https://www.tableau.com) | ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
-| [Power BI](https://powerbi.microsoft.com) | ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| [matplotlib](https://matplotlib.org) | ![matplotlib Badge](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) |
-| [seaborn](https://seaborn.pydata.org) | ![seaborn Badge](https://img.shields.io/badge/seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white) |
-| [D3.js](https://d3js.org) | ![D3.js Badge](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white) |
-| [Amazon Web Services (AWS)](https://aws.amazon.com) | ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| [Google Cloud Platform (GCP)](https://cloud.google.com) | ![GCP Badge](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
-| [Microsoft Azure](https://azure.microsoft.com) | ![Azure Badge](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+
 ---
 ## Unidad 1: Fundamentos y Ecosistema de Big Data
 
@@ -209,4 +184,6 @@ Temario oficial de la asignatura "Big Data" para la especialidad de Inteligencia
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
+
+
 Y alguna más...
